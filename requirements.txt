@@ -19,7 +19,7 @@ networkx==2.4
 numpy==1.17.4
 pandas==0.25.3
 pathspec==0.6.0
-Pillow==6.2.1
+Pillow==9.0.0
 plaidbench==0.6.4
 plaidml==0.6.4
 plaidml-keras==0.6.4
